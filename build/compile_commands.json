@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/PROJECT/PasswordManager/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\PasswordManager.dir\\src\\PasswordManager.cpp.obj -c D:\\PROJECT\\PasswordManager\\src\\PasswordManager.cpp",
+  "file": "D:/PROJECT/PasswordManager/src/PasswordManager.cpp",
+  "output": "CMakeFiles/PasswordManager.dir/src/PasswordManager.cpp.obj"
+}
+]
